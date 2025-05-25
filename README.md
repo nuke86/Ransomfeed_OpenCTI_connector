@@ -1,6 +1,4 @@
-## 📄 `README.md` — *RansomFeed Connector for OpenCTI*
-
-![OpenCTI Logo](https://www.opencti.io/wp-content/uploads/2020/12/opencti_logo.png)
+## 📄 `README.md` — *Ransomfeed Connector for OpenCTI*
 
 ### 🔗 Ransomfeed Connector
 
